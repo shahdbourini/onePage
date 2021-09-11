@@ -6,7 +6,7 @@ function App() {
     <>
         <Router>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/onePage">
             <Index />
           </Route>
           </Switch>
