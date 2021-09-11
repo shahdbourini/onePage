@@ -1,0 +1,56 @@
+/* .logo{
+    width: 66%;
+} */
+
+.navbar-brand{
+    padding-left: 4.5rem;
+    padding-top: 28px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black !important;
+}
+.navbar-expand-lg.navbar-light .navbar-nav .nav-link {
+        padding-right: 1.5rem;
+        padding-left: 1.8rem;
+        padding-top: 63px;
+        font-size: 16px;
+        font-family: AvertaR;
+}
+
+.navbar-nav {
+    margin-right: 1.3rem;
+}
+
+.profile-pic{
+    position: relative;
+}
+
+.profile-pic img{
+    position: relative;
+    top: -5px;
+}
+
+.online-circle {
+    height: 7px;
+    width: 7px;
+    background-color: #00FF94;
+    border-radius: 50%;
+    position: absolute;
+    top: 80%;
+    left: 16px;
+  }
+
+  /********************* responsive **********************/
+
+  @media (min-width: 320px) and (max-width: 991px){
+    .navbar-expand-lg.navbar-light .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-top: 32px;
+        font-size: 16px;
+        float: right;
+    }
+
+    .about-title{
+        padding-top: 33px;
+    }
+}

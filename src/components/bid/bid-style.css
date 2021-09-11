@@ -1,0 +1,61 @@
+.countdown-container{
+    display: flex;
+    margin-left: -1rem;
+    font-family: TradeGothic;
+    padding-top: 18px;
+}
+
+.countdown-el {
+    text-align: center;
+    /* line-height: 46px; */
+}
+
+.countdown-el span{
+    position: relative;
+    top: 18px;
+}
+.big-text {
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0 1rem 0 1rem;
+}
+
+.about-button{
+    margin-top: 39px;
+    width: 100%;
+    border-radius: 6px;
+    border:1px solid #000000;
+    height: 44px;
+
+}
+
+.bid-text{
+    font-weight: 700;
+    font-size: 40px;
+    /* line-height: 56px; */
+    margin: 0 ;
+    font-family: TradeGothic;
+    background: linear-gradient(to right, #8AD4EC 0%, #EF96FF 21.74%, #FF56A9 54.03% , #FFAA6C 85.28%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.part3{
+    padding-top: 39px;
+    font-weight: bold;
+    font-family: Averta;
+    margin: 0;
+}
+
+.ETH{
+    font-family: TradeGothic;  
+    font-weight: bold;
+    padding-top: 18px;
+}
+
+.ETH span{
+    font-size: 15px;
+    /* line-height: 5px; */
+    position: relative;
+    top: 18px;
+}

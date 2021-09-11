@@ -1,0 +1,61 @@
+.history-part{
+    font-family: Averta;
+}
+.history-part h2{
+    padding-bottom: 64px;
+    font-size: 30px;
+}
+
+.history-part p{
+    font-family: AvertaR;
+    font-size: 15px;
+    margin: 0;
+
+}
+
+.history-part p span{
+    color: gray;
+    font-family: gilroy;
+    font-size: 13px;
+    line-height: 30px;
+}
+.underline-word{
+    text-decoration: underline;
+}
+
+.second{
+    padding-top: 47px;
+}
+.secondOne{
+    padding-top: 24.7px;
+    font-family: AvertaR;
+   
+}
+
+.display-artists{
+    display: flex;
+}
+
+.display-artists img{
+    margin-right: 29.52px;
+}
+
+.display-artists p{
+    padding-top: 11px;
+}
+
+.secondOne p i{
+    padding-right: 18px;
+}
+
+
+
+
+  /********************* responsive **********************/
+
+  @media (min-width: 320px) and (max-width: 757px){
+  
+    .artists-part{
+        padding-top: 75px;
+    }
+}

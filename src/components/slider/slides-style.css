@@ -1,0 +1,57 @@
+.HomeSliders-sec{
+    padding-left: 109px;
+}
+
+.slide-disc{
+    padding-top: 10px;
+    font-family: AvertaR;
+    font-size: 13px;
+}
+
+.slider-title{
+    padding-bottom: 64px;
+    font-family: Averta;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.more-sliders{
+    padding-left: 105px;
+    padding-top: 83px;
+    font-family: Averta;
+    font-size: 16px;
+}
+
+.alice-carousel__dots {
+    display: none;
+}
+
+
+
+  /********************* responsive **********************/
+
+  @media (min-width: 320px) and (max-width: 992px){
+    .slider-title {
+        padding-top: 53px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 575px){
+    .alice-carousel__stage-item * {
+        width: 91%;
+    }
+
+    .HomeSliders-sec {
+        padding-left: 51px;
+    }
+
+   .more-sliders {
+    padding-left: 51px;
+    padding-top: 36px;
+}
+
+  .slider-title {
+    padding-bottom: 42px;
+    font-size: 23px;
+}
+}

@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'TradeGothic';
+  src: local('TradeGothic'), url(./fonts/TradeGothicLT-BoldCondTwenty.woff.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Averta';
+  src: local('Averta'), url(./fonts/AvertaDemoPE-ExtraboldItalic.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'AvertaR';
+  src: local('AvertaR'), url(./fonts/AvertaDemoPE-Regular.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'gilroy';
+  src: local('gilroy'), url(./fonts/gilroy-light.otf) format('truetype');
+}
