@@ -80,9 +80,7 @@ export default function Slides() {
           controlsStrategy="alternate"
           disableButtonsControls="true"
           dotsDisabled={true}
-          //   autoPlayInterval={2000}
-          //   autoPlayDirection="rtl"
-          //   autoPlay={true}
+     git
           infinite={true}
         />
       </div>
