@@ -53,4 +53,12 @@
     .about-title{
         padding-top: 33px;
     }
+
+}
+
+@media (min-width: 320px) and (max-width: 575px){
+    .navbar-brand {
+        padding-left: 1.5rem;
+        padding-top: 28px;
+    }
 }

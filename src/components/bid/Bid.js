@@ -6,7 +6,7 @@ export default function Bid() {
     <>
       <Row>
         <Col
-          xs={{ span: 18, offset: 0 }}
+          xs={{ span: 23, offset: 0 }}
           sm={{ span: 11, offset: 0 }}
           md={{ span: 11, offset: 0 }}
           lg={{ span: 10, offset: 0 }}
@@ -20,7 +20,7 @@ export default function Bid() {
         </Col>
 
         <Col
-          xs={{ span: 18, offset: 0 }}
+          xs={{ span: 23, offset: 0 }}
           sm={{ span: 12, offset: 1 }}
           md={{ span: 12, offset: 1 }}
           lg={{ span: 10, offset: 1 }}

@@ -10,7 +10,7 @@ export default function Footer() {
 
         <Row className="footer-dist">
           <Col
-            xs={{ span: 22, offset: 2 }}
+            xs={{ span: 22, offset: 1 }}
             sm={{ span: 8, offset: 1 }}
             md={{ span: 6, offset: 1 }}
             lg={{ span: 6, offset: 1 }}
@@ -25,7 +25,7 @@ export default function Footer() {
           </Col>
 
           <Col
-            xs={{ span: 20, offset: 2 }}
+            xs={{ span: 20, offset: 1 }}
             sm={{ span: 5, offset: 0 }}
             md={{ span: 4, offset: 2 }}
             lg={{ span: 3, offset: 6 }}
@@ -37,7 +37,7 @@ export default function Footer() {
           </Col>
 
           <Col
-            xs={{ span: 20, offset: 2 }}
+            xs={{ span: 20, offset: 1 }}
             sm={{ span: 5, offset: 0 }}
             md={{ span: 4, offset: 1 }}
             lg={{ span: 3, offset: 0 }}
@@ -49,7 +49,7 @@ export default function Footer() {
           </Col>
 
           <Col
-            xs={{ span: 6, offset: 2 }}
+            xs={{ span: 6, offset: 1 }}
             sm={{ span: 5, offset: 0 }}
             md={{ span: 4, offset: 1 }}
             lg={{ span: 3, offset: 0 }}

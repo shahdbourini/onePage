@@ -185,8 +185,12 @@
 .footer {
     padding-top: 98px;
 }
+
+.footer p{
+    padding-left: 16px;
+}
 .footer h1 {
-    padding-left: 65px;
+    padding-left: 26px;
 }
 
 .footer-dist {

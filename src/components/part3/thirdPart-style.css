@@ -58,4 +58,11 @@
     .artists-part{
         padding-top: 75px;
     }
+    .display-artists img {
+        margin-right: 4.52px;
+    }
+
+    .history-part h2 {
+        padding-bottom: 34px;
+    }
 }

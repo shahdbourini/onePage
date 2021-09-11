@@ -24,7 +24,7 @@ export default function About() {
         </Col>
 
         <Col
-          xs={{ span: 18, offset: 5 }}
+          xs={{ span: 18, offset: 2 }}
           sm={{ span: 18, offset: 4 }}
           md={{ span: 18, offset: 4 }}
           lg={{ span: 8, offset: 1 }}

@@ -60,6 +60,14 @@
     .about-title h1 {
         font-size: 31px;
     }
+
+    .aboutImg {
+        margin-left: -49px;
+    }
+
+    .about-dist {
+        padding-top: 49px;
+    }
 }
 
 @media (min-width: 758px) and (max-width: 991px){
@@ -68,4 +76,5 @@
         height: 608px;
         object-fit: scale-down;
     }
+
 }

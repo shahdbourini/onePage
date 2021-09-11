@@ -64,7 +64,7 @@ export default function Slides() {
     <>
       <Row style={{ paddingTop: `5%` }}>
         <Col
-          xs={{ span: 20, offset: 3 }}
+          xs={{ span: 20, offset: 2 }}
           sm={{ span: 20, offset: 3 }}
           md={{ span: 15, offset: 3 }}
           lg={{ span: 12, offset: 2 }}
@@ -80,7 +80,9 @@ export default function Slides() {
           controlsStrategy="alternate"
           disableButtonsControls="true"
           dotsDisabled={true}
-     git
+            autoPlayInterval={2000}
+            autoPlayDirection="rtl"
+            autoPlay={true}
           infinite={true}
         />
       </div>

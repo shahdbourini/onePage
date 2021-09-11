@@ -7,7 +7,7 @@ export default function ThirdPart() {
     <>
       <Row className="about-dist">
         <Col
-          xs={{ span: 18, offset: 5 }}
+          xs={{ span: 18, offset: 2 }}
           sm={{ span: 9, offset: 5 }}
           md={{ span: 9, offset: 4 }}
           lg={{ span: 9, offset: 2 }}
@@ -31,7 +31,7 @@ export default function ThirdPart() {
         </Col>
 
         <Col
-          xs={{ span: 18, offset: 5 }}
+          xs={{ span: 18, offset: 2 }}
           sm={{ span: 9, offset: 5 }}
           md={{ span: 9, offset: 2 }}
           lg={{ span: 9, offset: 3 }}
